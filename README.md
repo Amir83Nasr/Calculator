@@ -2,4 +2,4 @@
 
 ### This project was based on JavaScript for boosting my ability on front-end.
 
-![Preview](Preview.jpg)
+![Preview](image/Preview.jpg)
